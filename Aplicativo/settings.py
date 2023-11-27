@@ -27,7 +27,7 @@ SECRET_KEY = '^adwke-#3oll)1@5wu-%p=d4%i_6vuo+hg@8(kgvoyubpn(*jc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOST = ['*','astute-sail-production.up.railway.app']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
